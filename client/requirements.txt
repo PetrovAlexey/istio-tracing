@@ -1,0 +1,7 @@
+requests
+opentracing_instrumentation
+Flask
+opentracing>=2,<3
+jaeger-client
+Flask-Opentracing
+pika
