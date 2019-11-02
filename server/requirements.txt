@@ -1,4 +1,4 @@
-Flask==0.12.2
+Flask==1.0
 textblob==0.15.0
 Flask-API==1.0
 Flask-Opentracing==0.2.0
